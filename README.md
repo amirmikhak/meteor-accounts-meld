@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.org/splendido/meteor-accounts-meld.svg?branch=master)](https://travis-ci.org/splendido/meteor-accounts-meld)
+## updated by amirmikhak.
+
+What's below may not be accurate.
+
+-----
 
 # accounts-meld
 
